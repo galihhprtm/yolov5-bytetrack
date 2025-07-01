@@ -22,6 +22,4 @@ Sistem ini digunakan untuk **mengukur atensi terhadap iklan reklame** dengan men
 
 ---
 
-## 📁 Struktur Direktori
-
 
