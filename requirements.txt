@@ -1,0 +1,30 @@
+# === YOLOv5 & Deep Learning ===
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.23.5
+opencv-python>=4.1.1
+ultralytics>=8.2.34
+matplotlib>=3.3
+pillow>=10.3.0
+thop>=0.1.1
+scipy>=1.4.1
+
+# === System & Utility ===
+pyyaml>=5.3.1
+requests>=2.32.2
+psutil
+tqdm>=4.66.3
+setuptools>=70.0.0
+
+# === Tracking & Visual Annotator ===
+supervision>=0.25.1   # Untuk ByteTrack, BoxAnnotator, dsb
+
+# === Logging & Data Analysis (Opsional) ===
+pandas>=1.1.4
+seaborn>=0.11.0
+
+# === Firebase (Firestore Upload) ===
+firebase-admin>=6.4.0
+
+# === Tambahan Windows/Linux Compatibility (opsional)
+pathlib2; sys_platform == "win32"
