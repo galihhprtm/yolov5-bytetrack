@@ -15,7 +15,7 @@ Repositori ini merupakan implementasi dari sistem **deteksi dan pelacakan objek 
 - **YOLOv5 (versi Medium)** untuk deteksi objek.
 - **ByteTrack** untuk pelacakan objek secara akurat.
 
-Sistem ini digunakan untuk **mengukur atensi terhadap iklan reklame** dengan menghitung metadata seperti:
+Sistem ini digunakan untuk **mengukur tingkat keramaian di sekitar iklan reklame** dengan menghitung metadata seperti:
 - Jumlah objek (`orang`, `mobil`, `motor`) per frame
 - ID tracking unik per objek
 - Statistik keramaian berdasarkan waktu
