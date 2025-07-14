@@ -1,7 +1,7 @@
 # 🚀 Real-Time Object Detection & Tracking using YOLOv5 + ByteTrack
 
 Skripsi Penelitian:  
-**"Sistem Deteksi Objek untuk Mengukur Atensi pada Lingkungan Reklame Iklan Berbasis YOLOv5m + ByteTrack"**
+**"Sistem Deteksi dan Pelacakan Objek untuk Memonitor Tingkat Keramaian di Sekitar Reklame Berbasis YOLOv5 dan ByteTrack"**
 
 Penulis: Ananda Galih Pratama   
 Universitas: [Politeknik Negeri Malang]
